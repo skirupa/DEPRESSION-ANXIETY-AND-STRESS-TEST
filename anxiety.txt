@@ -1,0 +1,7 @@
+1 I was aware of dryness of my mouth  0 1 2 3 
+2 I experienced breathing difficulty  0 1 2 3 
+3 I experienced trembling  0 1 2 3 
+4 I was worried about situations in which I might panic 0 1 2 3 
+5 I felt I was close to panic  0 1 2 3 
+6 I am aware of the action of my heart 0 1 2 3 
+7 I felt scared without any good reason  0 1 2 3 

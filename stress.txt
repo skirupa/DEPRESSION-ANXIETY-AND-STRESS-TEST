@@ -1,0 +1,11 @@
+1 I found it hard to wind down  0 1 2 3 
+2 I tended to over-react to situations  0 1 2 3 
+3 I felt that I was using a lot of nervous energy  0 1 2 3 
+4 I found myself getting agitated  0 1 2 3 
+5 I found it difficult to relax  0 1 2 3 
+6 I was intolerant of anything 0 1 2 3
+7 I felt that I was rather touchy   0 1 2 3 
+
+ 
+ 
+

@@ -1,0 +1,43 @@
+
+1 I was aware of dryness of my mouth  0 1 2 3 
+
+ 2
+ 
+2 I experienced breathing difficulty  0 1 2 3 
+
+ 2
+ 
+3 I experienced trembling  0 1 2 3 
+
+ 2
+ 
+4 I was worried about situations in which I might panic 0 1 2 3 
+
+ 1
+ 
+5 I felt I was close to panic  0 1 2 3 
+
+ 0
+ 
+6 I am aware of the action of my heart 0 1 2 3 
+
+ 3
+ 
+7 I felt scared without any good reason  0 1 2 3 
+
+ 2
+ ANXIETY TEST SUMMARY
+YOUR SCORE IS:
+160
+Your results show that you may be experiencing a MODERATE level of anxiety. You received a score of %d for anxiety.This indicates that you may have been recently experiencing some of the characteristics displayed by high scorers on the anxiety scale including feeling:
+	~Apprehensive
+	~panicky
+	~Trembly
+	~Shaky
+	~Aware of dryness of the mouth
+	~Breathing difficulties
+	~Pounding of the heart
+	~Sweatiness of the palms
+	~Worried about performance and possible loss of control
+Your results indicate that your anxiety levels are currently at a Moderate level.
+It is suggested that you continue to monitor your anxiety levels and identify ways to reduce this negative emotional state. If you begin experiencing these emotions frequently and strongly or if you feel that you need help then you should always seek the advice of a medical professional.

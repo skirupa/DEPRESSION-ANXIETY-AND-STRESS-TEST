@@ -1,0 +1,48 @@
+
+1 I found it hard to wind down  0 1 2 3 
+
+ 1
+ 
+2 I tended to over-react to situations  0 1 2 3 
+
+ 1
+ 
+3 I felt that I was using a lot of nervous energy  0 1 2 3 
+
+ 1
+ 
+4 I found myself getting agitated  0 1 2 3 
+
+ 1
+ 
+5 I found it difficult to relax  0 1 2 3 
+
+ 1
+ 
+6 I was intolerant of anything 0 1 2 3
+
+ 1
+ 
+7 I felt that I was rather touchy   0 1 2 3 
+
+ 1
+ STRESS TEST SUMMARYYOUR SCORE IS:
+120
+Your results show that you may be experiencing a SEVERE level of stress.
+You received a score of %d for stress.
+This indicates that you may have been recently experiencing many of the characteristics displayed by high scorers on the stress scale including feeling:
+	~over-aroused
+	~Tense
+	~Unable to relax
+	~Touchy
+	~Easily upset
+	~Irritable
+	~Easily startled
+	~Nervy
+	~Jumpy
+	~Intolerant of interruption or delay
+
+
+Your results indicate that your stress levels are currently at a Severe level.
+It is suggested that your levels of stress indicate that you are experiencing these emotions frequently and strongly and you should seek the advice of a medical professional immediately.
+You should also continue to monitor your stress levels and identify ways to reduce this negative emotional state.
